@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+/* navigation-bar */
+nav{
+    height: 4rem;
+    background-color: #FECACA;
+    text-align: center;
+}
+
+/* textarea */
+main{
+    margin: auto;
+    padding: 3rem;
+    max-width: 500px;
+}
+#tarea{
+    box-sizing: border-box;
+    display: block;
+    padding: 0.3rem;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid black;
+    width: 100%;
+    height: 15vh;
+}
+
+/* Button */
+#tbutton{
+    font-size: large;
+    border:none;
+    border-radius: 1rem;
+    width: 130px;
+    height: 6vh;
+    background-color: #FECACA;
+    text-align: center;
+}
+/* output */
+#outputdiv{
+    margin-top: 1rem;
+    border: 1px solid black;
+    height: 15vh;
+    width: 100%;
+}
+
+/* footer */
+footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: 1rem;
+    text-align: start;
+    background-color: #FECACA;
+}
+footer p{
+    margin: auto;
+    max-width: 500px;
+}
