@@ -4,7 +4,7 @@ body {
 }
 /* navigation-bar */
 nav{
-    height: 4rem;
+    height: 4.5rem;
     background-color: #FECACA;
     text-align: center;
 }
@@ -39,7 +39,7 @@ main{
 #outputdiv{
     margin-top: 1rem;
     border: 1px solid black;
-    height: 15vh;
+    height: 13vh;
     width: 100%;
 }
 
